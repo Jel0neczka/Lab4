@@ -1,2 +1,2 @@
 # Lab4
-Repozytorium tworzone na zajęciach CASE
+Repozytorium tworzone na zajęciach z narzędzi CASE.
